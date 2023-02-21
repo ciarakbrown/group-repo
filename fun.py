@@ -1,4 +1,4 @@
-print("fun fun fun")
+print("not fun")
 print("Tassia")
 a = 10
 if a ==10:
